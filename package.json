@@ -1,14 +1,14 @@
 {
-  "name": "qrcode42",
+  "name": "qrcode",
   "version": "0.0.1",
-  "description": "ERROR: No README.md file found!",
+  "description": "A service ready to go on heroku, ables to generate QRCode and read QRCode",
   "main": "web.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "repository": "",
+  "repository": "https://github.com/stumpyfr/QRCode.git",
   "author": "Niels Freier",
-  "license": "BSD",
+  "license": "MIT",
   "dependencies": {
     "canvas": "*",
     "express": "~3.4.1",
