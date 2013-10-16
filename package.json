@@ -15,5 +15,8 @@
     "node-zxing": "0.0.1",
     "onceler": "0.0.5",
     "qrcode": "~0.2.8"
+  },
+  "devDependencies": {
+    "supertest": "~0.8.0"
   }
 }
