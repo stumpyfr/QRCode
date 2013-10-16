@@ -1,0 +1,19 @@
+{
+  "name": "qrcode42",
+  "version": "0.0.1",
+  "description": "ERROR: No README.md file found!",
+  "main": "web.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": "",
+  "author": "Niels Freier",
+  "license": "BSD",
+  "dependencies": {
+    "canvas": "*",
+    "express": "~3.4.1",
+    "node-zxing": "0.0.1",
+    "onceler": "0.0.5",
+    "qrcode": "~0.2.8"
+  }
+}
