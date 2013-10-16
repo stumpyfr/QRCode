@@ -4,7 +4,7 @@
   "description": "A service ready to go on heroku, ables to generate QRCode and read QRCode",
   "main": "web.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "make test"
   },
   "repository": "https://github.com/stumpyfr/QRCode.git",
   "author": "Niels Freier",
